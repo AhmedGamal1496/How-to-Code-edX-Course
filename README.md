@@ -14,9 +14,9 @@ I had the opportunity to create a simple project that mimics the classic Space I
 
 Open `space-invaders.rkt` and type (main G0)
 
-![Space Invaders Gif](./assets/spaceinvaders.gif)
+![Space Invaders Gif](./spaceinvaders.gif)
 
 ## Link of the courses
 
-HtC Simple Data: https://www.edx.org/course/how-code-simple-data-ubcx-htc1x
-Htc Complex Data: https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
+* HtC Simple Data: https://www.edx.org/course/how-code-simple-data-ubcx-htc1x
+* Htc Complex Data: https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
